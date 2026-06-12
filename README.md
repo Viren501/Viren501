@@ -40,4 +40,4 @@ A predictive model to estimate car mileage based on key vehicle specifications.
 
 ### 📊 GitHub Stats
 ![Viren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viren501&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viren501&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viren501&layout=compact&theme=radical&hide=html)
