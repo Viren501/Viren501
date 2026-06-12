@@ -35,8 +35,3 @@ An IoT-based monitoring system for real-time traffic density forecasting and inc
 #### 3. Car Average Prediction
 A predictive model to estimate car mileage based on key vehicle specifications.
 * **Details:** Performed comprehensive exploratory data analysis using Pandas and NumPy. Visualized key feature correlations with Matplotlib and Seaborn, and applied Linear Regression using Scikit-Learn to predict outcomes.
-
----
-
-### 📊 GitHub Stats
-![Viren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viren501&show_icons=true&theme=radical)
