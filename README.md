@@ -5,7 +5,7 @@
 I am a Computer Engineering graduate from Gujarat Technological University, having completed my Bachelor of Engineering at S.P.B Patel Engineering College. I am passionate about the complete Data Science lifecycle, from raw data processing to deploying functional machine learning models. 
 
 ### 🚀 About Me
-* 🔭 Recently completed my Data Analysis & Machine Learning internship at **Brainy Beam Info-Tech Pvt. Ltd.**
+* 🔭 Recently completed my Data Science & Machine Learning internship at **Brainy Beam Info-Tech Pvt. Ltd.**
 * 🌱 Deepening my expertise in Python, Pandas, Scikit-Learn, and the Streamlit framework.
 * 🏆 Secured **3rd Prize** in an Intercollegiate Hackathon for developing a Smart Traffic Management System for Urban Congestion.
 * 📝 Co-authored and published the research paper *"Multi-feature Collaborative Traffic Management: An AI and IoT-Integrated Approach"* (Springer, 2026. DOI: 10.1007/978-3-032-13544-5_39).
